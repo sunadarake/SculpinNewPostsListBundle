@@ -1,0 +1,27 @@
+{
+    "name": "sunadarake/sculpin-new-posts-list-bundle",
+    "type": "library",
+    "description": "3rd party Sculpin Bundle that creates new posts list",
+    "keywords": [
+        "sculpin",
+        "bundle",
+        "newPostLists"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sunadarake",
+            "email": "toumasuxp@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Darake\\SculpinNewPostsListBundle\\": "src/"
+        }
+    },
+    "version": "1.0.0",
+    "require": {
+        "php": "^8.0 || ^7.3",
+        "sculpin/sculpin": "^3.1.0"
+    }
+}
