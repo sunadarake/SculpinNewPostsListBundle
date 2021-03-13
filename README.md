@@ -13,7 +13,7 @@ In your `app/SculpinKernel.php`
 <?php
 
 use Sculpin\Bundle\SculpinBundle\HttpKernel\AbstractKernel;
-use Darake\SculpinNewPostsListBundle;
+use Darake\SculpinNewPostsListBundle\SculpinNewPostsListBundle;
 
 class SculpinKernel extends AbstractKernel
 {
