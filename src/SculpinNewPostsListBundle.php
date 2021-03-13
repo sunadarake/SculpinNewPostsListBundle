@@ -1,6 +1,6 @@
 <?php
 
-namespace Darake\Sculpin\Bundle\NewPostsList;
+namespace Darake\SculpinNewPostsListBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
